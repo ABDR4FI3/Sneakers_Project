@@ -1,0 +1,10 @@
+INSERT INTO products (id, nom, price , stock,date_dentrer,description,path)
+ VALUES
+('2', 'Basses RBD', '50','100','2023-04-01','description here','"BG Sneakers/Baskets-basses-RBD-Game-removebg-preview.png"'),
+('3', 'Gazelle 85', '50','100','2023-04-01','description here','"BG Sneakers/Chaussure_Gazelle_85_Vert_GY2532-removebg-preview.png"'),
+('4', 'OZWEEGO bleu', '50','100','2023-04-01','description here','"BG Sneakers/Chaussure_OZWEEGO_Bleu_HQ8863_04-removebg-preview.png"'),
+('5', 'adidas stripes', '50','100','2023-04-01','description here','"BG Sneakers/Chaussure_VS_Pace_2.0_3-Stripes_-removebg-preview.png"'),
+('6', 'air max 90', '50','100','2023-04-01','description here','"BG Sneakers/chaussure-air-max-90-pour-p2gZgN-removebg-preview.png"'),
+('7', 'dunk low green', '50','100','2023-04-01','description here','"BG Sneakers/chaussure-dunk-low-pour-hQBFRp-removebg-preview.png"'),
+('8', 'dunk low black', '50','100','2023-04-01','description here','"BG Sneakers/custom-nike-dunk-low-by-you-removebg-preview.png.png"'),
+('9', 'Dame extply', '50','100','2023-04-01','description here','"BG Sneakers/Dame_Extply_2.0_Shoes_Green_ID18-removebg-preview.png"')
